@@ -1,4 +1,4 @@
-# Python-project
+# Weight-Converter
 By using Python 
 
-Kgs to Lbs Converter or Vice-Versa
+It can convert Kgs to Lbs or Vice-Versa
