@@ -1,3 +1,4 @@
 # Python-project
-Combined from 1 to 8.
-A single repo my python mini projects
+
+A single and combined(1-8) repo my python mini projects.
+
